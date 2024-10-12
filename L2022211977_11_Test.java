@@ -8,6 +8,7 @@ public class L2022211977_11_Test {  // 123456为学号，15为所分配题号 (�
     private Solution solution;
 
     /**
+     * change by 2022211914：
      * 测试用例设计原则：
      * 1. 等价类划分：
      *    - 数组长度不足 3 的情况：没有有效的三元组。
